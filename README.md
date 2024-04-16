@@ -1,6 +1,8 @@
 # Open-Pose 3D Zero-Shot Learning: Benchmark and Challenges
 
-arXiv link: [https://arxiv.org/abs/2312.07039](https://arxiv.org/abs/2312.07039)
+## arXiv link: [https://arxiv.org/abs/2312.07039](https://arxiv.org/abs/2312.07039)
+## code&data: coming soon.
+![avatar](vis_benchmark.png)
 
 ## Citation
 If you find this work useful in your research, please cite:
