@@ -1,5 +1,4 @@
-# Diff-OP3D
-Diff-OP3D: Bridging 2D Diffusion for  Open Pose 3D Zero-Shot Classification
+# Open-Pose 3D Zero-Shot Learning: Benchmark and Challenges
 
 arXiv link: [https://arxiv.org/abs/2312.07039](https://arxiv.org/abs/2312.07039)
 
@@ -7,8 +6,8 @@ arXiv link: [https://arxiv.org/abs/2312.07039](https://arxiv.org/abs/2312.07039)
 If you find this work useful in your research, please cite:
 ```
 @article{zhao2023diff,
-  title={Diff-OP3D: Bridging 2D Diffusion for Open Pose 3D Zero-Shot Classification},
-  author={Zhao, Weiguang and Yang, Guanyu and Yang, Chaolong and Jiang, Chenru and Yan, Yuyao and Zhang, Rui and Huang, Kaizhu},
+  title={Open-Pose 3D Zero-Shot Learning: Benchmark and Challenges},
+  author={Zhao, Weiguang and Yang, Guanyu and Zhang, Rui and Jiang, Chenru and Yang, Chaolong and Yan, Yuyao and Hussain, Amir and Huang, Kaizhu},
   journal={arXiv preprint arXiv:2312.07039},
   year={2023}
 }
