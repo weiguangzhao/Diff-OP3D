@@ -1,4 +1,4 @@
-name: op3dzsl_release
+name: op3dzsl
 channels:
   - pytorch3d
   - bottler
