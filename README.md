@@ -1,5 +1,9 @@
 # Open-Pose 3D Zero-Shot Learning: Benchmark and Challenges
 
+- [x] Release environment setting
+- [ ] Release datasets ModelNet40<sup>‡</sup>, ModelNet10<sup>‡</sup>, McGill<sup>‡</sup> 
+- [ ] Release our baseline eval code (Clip-Based & Diffusion-Based)
+
 ## Open-Pose Benchmark 
 | Datasets | Total Classes | Seen/Unseen Classes | Train/Valid/Test Samples| Download |
 |:---:|:---:|:---:|:---:|:---:|
