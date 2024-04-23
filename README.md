@@ -13,7 +13,7 @@
 
 
 
-![avatar](doc/vis_benchmark.png)
+<!--![avatar](doc/vis_benchmark.png)-->
 
 ## Our Baseline Method
 ![avatar](doc/overview.png)
@@ -26,7 +26,7 @@ conda activtae op3dzsl
 pip install git+https://github.com/openai/CLIP.git
 ```
 
-Download the Diffusion pretrain model [our google driver]() or [official website](https://huggingface.co/runwayml/stable-diffusion-v1-5). Rename the pretrained model as "model.ckpt" and put it in the directory "models/ldm/stable-diffusion-v1/".
+Download the Diffusion pretrained model [our google driver]() or [official website](https://huggingface.co/runwayml/stable-diffusion-v1-5). Rename the pretrained model as "model.ckpt" and put it in the directory "models/ldm/stable-diffusion-v1/".
 
 
 ### Baseline Evaluation
@@ -54,7 +54,8 @@ If you find this work useful in your research, please cite:
 }
 ```
 
-Our open-pose datasets developed from the previous work: ModelNet40 and McGill. If you use our open-pose datasets, you also need to cite these two work:
+
+If you utilize our open-pose datasets, it is necessary to cite the previous works from which they were developed: ModelNet40 and McGill.
 
 ```
 @inproceedings{ModelNet,
