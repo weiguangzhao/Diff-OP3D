@@ -3,7 +3,7 @@
 - [x] Release environment setting
 - [x] Release open-pose benchmark datasets McGill<sup>‡</sup> 
 - [ ] Release datasets ModelNet40<sup>‡</sup>, ModelNet10<sup>‡</sup>, 
-- [x] Release our baseline eval code Clip-Based 
+- [x] Release our baseline eval code CLIP-Based 
 - [ ] Release our baseline eval code Diffusion-Based
 
 ## Open-Pose Benchmark 
@@ -21,7 +21,7 @@
 ![avatar](doc/overview.png)
 
 ### Environment
-Our baseline (Diffusion-based or Clip-based) could be conducted on one single RTX3090 or RTX4090. 
+Our baseline (Diffusion-based or CLIP-based) could be conducted on one single RTX3090 or RTX4090. 
 ```    
 conda env create -f op3dzsl.yaml
 conda activtae op3dzsl
@@ -33,7 +33,7 @@ Download the Diffusion pretrained model [google driver](https://drive.google.com
 
 ### Baseline Evaluation
 
-For our Clip-Based baseline
+For our CLIP-Based baseline
 
 ```    
 python baseline_eval/clip_eval.py
@@ -79,3 +79,10 @@ If you utilize our open-pose datasets, it is necessary to cite the previous work
   year={2008}
 }
 ```
+
+
+## Acknowlegement
+This project is not possible without multiple great opensourced codebases. We list some notable examples: 
+[TZSL](https://github.com/ali-chr/Transductive_ZSL_3D_Point_Cloud), [PointCLIP](https://github.com/ZrrSkywalker/PointCLIP), [PointCLIPv2](https://github.com/yangyangyang127/PointCLIP_V2), [ReConCLIP](https://github.com/qizekun/ReCon), 
+[CLIP2Point](https://github.com/tyhuang0428/CLIP2Point), [ULIP](https://github.com/salesforce/ULIP), 
+[DiffCLIP](https://github.com/SitianShen/DiffCLIP), [Stable-Diffusion](https://github.com/runwayml/stable-diffusion) etc.
