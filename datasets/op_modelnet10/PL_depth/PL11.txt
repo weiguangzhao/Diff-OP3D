@@ -1,0 +1,10 @@
+point cloud of one bathtub
+point cloud of one bed
+point cloud of one chair
+point cloud of one desk
+point cloud of one dresser
+point cloud of one monitor
+point cloud of one nightstand
+point cloud of one sofa
+point cloud of one table
+point cloud of one toilet

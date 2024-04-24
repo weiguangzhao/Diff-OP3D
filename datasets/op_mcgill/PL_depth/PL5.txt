@@ -1,0 +1,14 @@
+one depth map of one standalone ant
+one depth map of one standalone bird
+one depth map of one standalone crab
+one depth map of one standalone dinosaur
+one depth map of one standalone dolphin
+one depth map of one standalone fish
+one depth map of one standalone hand
+one depth map of one standalone octopus
+one depth map of one standalone pliers
+one depth map of one standalone quadruped
+one depth map of one standalone snake
+one depth map of one standalone spectacle
+one depth map of one standalone spider
+one depth map of one standalone teddy

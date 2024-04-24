@@ -1,0 +1,10 @@
+one depth map of one standalone bathtub
+one depth map of one standalone bed
+one depth map of one standalone chair
+one depth map of one standalone desk
+one depth map of one standalone dresser
+one depth map of one standalone monitor
+one depth map of one standalone nightstand
+one depth map of one standalone sofa
+one depth map of one standalone table
+one depth map of one standalone toilet

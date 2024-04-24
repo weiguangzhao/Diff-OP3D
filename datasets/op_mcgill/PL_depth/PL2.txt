@@ -1,0 +1,14 @@
+one line-drawn ant
+one line-drawn bird
+one line-drawn crab
+one line-drawn dinosaur
+one line-drawn dolphin
+one line-drawn fish
+one line-drawn hand
+one line-drawn octopus
+one line-drawn pliers
+one line-drawn quadruped
+one line-drawn snake
+one line-drawn spectacle
+one line-drawn spider
+one line-drawn teddy

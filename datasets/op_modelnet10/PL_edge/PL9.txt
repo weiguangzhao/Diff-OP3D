@@ -1,0 +1,10 @@
+one model of bathtub in linear composition
+one model of bed in linear composition
+one model of chair in linear composition
+one model of desk in linear composition
+one model of dresser in linear composition
+one model of monitor in linear composition
+one model of nightstand in linear composition
+one model of sofa in linear composition
+one model of table in linear composition
+one model of toilet in linear composition

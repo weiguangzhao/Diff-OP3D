@@ -1,15 +1,17 @@
 # Open-Pose 3D Zero-Shot Learning: Benchmark and Challenges
 
 - [x] Release environment setting
-- [ ] Release datasets ModelNet40<sup>‡</sup>, ModelNet10<sup>‡</sup>, McGill<sup>‡</sup> 
-- [ ] Release our baseline eval code (Clip-Based & Diffusion-Based)
+- [x] Release open-pose benchmark datasets McGill<sup>‡</sup> 
+- [ ] Release datasets ModelNet40<sup>‡</sup>, ModelNet10<sup>‡</sup>, 
+- [x] Release our baseline eval code Clip-Based 
+- [ ] Release our baseline eval code Diffusion-Based
 
 ## Open-Pose Benchmark 
 | Datasets | Total Classes | Seen/Unseen Classes | Train/Valid/Test Samples| Download |
 |:---:|:---:|:---:|:---:|:---:|
-|ModelNet40<sup>‡</sup>| 40| 30/-| 5852/1560/-| |
-|ModelNet10<sup>‡</sup>| 10| -/10| -/-/908| |
-|McGill<sup>‡</sup>| 19| -/14| -/-/115| |
+|ModelNet40<sup>‡</sup>| 40| 30/-| 5852/1560/-| [google driver](https://drive.google.com/drive/folders/1OWvstxxpmXylxTSeGL7JqJGP3QjKp7p0?usp=drive_link) |
+|ModelNet10<sup>‡</sup>| 10| -/10| -/-/908| [google driver](https://drive.google.com/drive/folders/1OWvstxxpmXylxTSeGL7JqJGP3QjKp7p0?usp=drive_link) |
+|McGill<sup>‡</sup>| 19| -/14| -/-/115| [google driver](https://drive.google.com/drive/folders/1OWvstxxpmXylxTSeGL7JqJGP3QjKp7p0?usp=drive_link) |
 
 
 
@@ -26,7 +28,7 @@ conda activtae op3dzsl
 pip install git+https://github.com/openai/CLIP.git
 ```
 
-Download the Diffusion pretrained model [our google driver]() or [official website](https://huggingface.co/runwayml/stable-diffusion-v1-5). Rename the pretrained model as "model.ckpt" and put it in the directory "models/ldm/stable-diffusion-v1/".
+Download the Diffusion pretrained model [google driver](https://drive.google.com/drive/folders/1OWvstxxpmXylxTSeGL7JqJGP3QjKp7p0?usp=drive_link) or [official website](https://huggingface.co/runwayml/stable-diffusion-v1-5). Rename the pretrained model as "model.ckpt" and put it in the directory "models/ldm/stable-diffusion-v1/".
 
 
 ### Baseline Evaluation

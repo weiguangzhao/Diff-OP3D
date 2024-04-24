@@ -1,0 +1,10 @@
+one line-drawn bathtub
+one line-drawn bed
+one line-drawn chair
+one line-drawn desk
+one line-drawn dresser
+one line-drawn monitor
+one line-drawn nightstand
+one line-drawn sofa
+one line-drawn table
+one line-drawn toilet
