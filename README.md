@@ -1,4 +1,4 @@
-# Open-Pose 3D Zero-Shot Learning: Benchmark and Challenges
+# 【NN'24】Open-Pose 3D Zero-Shot Learning: Benchmark and Challenges
 
 - [x] Release environment setting
 - [x] Release open-pose benchmark datasets McGill<sup>‡</sup> 
@@ -48,11 +48,12 @@ python baseline_eval/diffusion_eval.py
 ## Citation
 If you find this work useful in your research, please cite:
 ```
-@article{zhao2023diff,
-  title={Open-Pose 3D Zero-Shot Learning: Benchmark and Challenges},
+@article{zhao2024open,
+  title={Open-Pose 3D zero-shot learning: Benchmark and challenges},
   author={Zhao, Weiguang and Yang, Guanyu and Zhang, Rui and Jiang, Chenru and Yang, Chaolong and Yan, Yuyao and Hussain, Amir and Huang, Kaizhu},
-  journal={arXiv preprint arXiv:2312.07039},
-  year={2023}
+  journal={Neural Networks},
+  pages={106775},
+  year={2024}
 }
 ```
 
