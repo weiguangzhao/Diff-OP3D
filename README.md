@@ -2,9 +2,9 @@
 
 - [x] Release environment setting
 - [x] Release open-pose benchmark datasets McGill<sup>‡</sup> 
-- [ ] Release datasets ModelNet40<sup>‡</sup>, ModelNet10<sup>‡</sup>, 
+- [x] Release datasets ModelNet40<sup>‡</sup>, ModelNet10<sup>‡</sup>, 
 - [x] Release our baseline eval code CLIP-Based 
-- [ ] Release our baseline eval code Diffusion-Based
+- [x] Release our baseline eval code Diffusion-Based
 
 ## Open-Pose Benchmark 
 | Datasets | Total Classes | Seen/Unseen Classes | Train/Valid/Test Samples| Download |
